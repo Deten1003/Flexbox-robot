@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    color: cadetblue;
+    font-size: larger;
+    background-color:aquamarine; 
+    text-align: center;
+    padding: 20px;
+}
+
+#head{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    border: 20px solid aqua;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+#middle{
+    display: flex;
+}
+#bottom{
+   display: flex;
+}
+#robot-container{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+.eye{
+    width: 60px;
+    height: 60px;
+    background-color: blueviolet;
+    border-radius: 50px;
+}
+#eyes{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.mouth{
+    width: 90px;
+    height: 45px;
+    background-color: blue;
+}
+.arm{
+    width: 200px;
+    height: 60px;
+    background-color: black;
+}
+#middle{
+    display: flex;
+    f
+}
+.body{
+    background-color: aquamarine;
+    width: 200px;
+    height: 200px;
+}
+.leg{
+    height: 200px;
+    width: 90px;
+    background-color: blueviolet;
+    border-right: 20px solid b;
